@@ -3,10 +3,15 @@ One-click insertion of Webshell and multi-functional execution of operations on 
 
 Supported Features:
 [+]Batch import phpmyadmin
+
 [+]Batch Insert Webshell
+
 [+]Multi-threading High efficiency
+
 [+]One-click search for IP attribution
+
 [+]Add User
+
 [+]Query system configuration
 [+]Query system name
 [+]Batch Search Web Directory (Root)
