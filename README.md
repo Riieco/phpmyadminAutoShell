@@ -41,4 +41,4 @@ Supported Features:
 
 It is now completely free and open source, enjoy!
 
-!(https://github.com/YukishiroKarin/phpmyadminAutoShell/blob/main/1.png?raw=true)
+![image](https://github.com/YukishiroKarin/phpmyadminAutoShell/blob/main/1.png)
